@@ -4,3 +4,12 @@ For this C++ final project, you will create an image processing application that
 The high-level summary of what you will be doing in this project is as follows:
 -Implement the 10 image processing functions
 -Implement a simple user interface for your application
+
+
+For each of the image processing functions, you will be:
+1) taking in the original image as a parameter
+2) creating and initializing a new 2-dimensional vector to store the new image data,
+3) iterating through the original image,
+4) performing the requested image processing operation on the pixel values,
+5) saving the modified pixel values to the new vector,
+6) returning the new vector
